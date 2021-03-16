@@ -74,8 +74,8 @@
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Default="bbaf3828-a608-4e34-974e-55937c34865e" Name="varAppID" />
       <Variable x:TypeArguments="x:String" Default="d8353d2a-b153-4d17-8827-902c51f72357" Name="varTenantID" />
-      <Variable x:TypeArguments="x:String" Default="ankit.chaudhary@uipath.com" Name="varUser" />
-      <Variable x:TypeArguments="x:String" Default="Kobe@0710" Name="pwd" />
+      <Variable x:TypeArguments="x:String" Default="adnssfs@gmail.com" Name="varUser" />
+      <Variable x:TypeArguments="x:String" Default="sFSDFASGDF@123" Name="pwd" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
